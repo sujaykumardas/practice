@@ -1,4 +1,4 @@
-#AuthType Basic
+#AuthType Basicfghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 #AuthName "Dashboard Admin Only"
 
 #AuthUserFile "/home/code9media/.htpasswds/dashboard.code9media.com/passwd"
