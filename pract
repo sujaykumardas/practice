@@ -1,0 +1,3 @@
+conflicts rebase merge branches 
+
+ git commit --amend --no-edit
